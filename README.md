@@ -1,6 +1,5 @@
 # Interactive Visualization
-<p align="center">
-  <img width="600" src="https://user-images.githubusercontent.com/46146748/63464023-5da1ca00-c42c-11e9-8210-0e8b63ad055b.jpg">
+  <img width="700" src="https://user-images.githubusercontent.com/46146748/63464023-5da1ca00-c42c-11e9-8210-0e8b63ad055b.jpg">
 
 ## Goals of the Analysis
 
