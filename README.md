@@ -1,6 +1,7 @@
 # Interactive Visualization
- <img src="https://user-images.githubusercontent.com/46146748/63464023-5da1ca00-c42c-11e9-8210-0e8b63ad055b.jpg" width="700">
- 
+<p align="center">
+  <img width="600" src="https://user-images.githubusercontent.com/46146748/63464023-5da1ca00-c42c-11e9-8210-0e8b63ad055b.jpg">
+
 ## Goals of the Analysis
 
 In this project, I will be building a couple of basic Shiny Apps and then  create an interactive visualization of some mid-term test data to convey message. 
